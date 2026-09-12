@@ -2,9 +2,9 @@
 
 # Alejandro Quintero
 
-### Ingeniero de Sistemas · Desarrollo de Software & Automatización con IA
+### Ingeniero de Sistemas · Full Stack Development · Automatización & IA Aplicada
 
-Construyo soluciones digitales a medida — desde aplicaciones web hasta automatizaciones e integraciones con inteligencia artificial — enfocadas en generar valor real para negocios.
+Experiencia en desarrollo de software Full Stack, automatización de procesos e integración de sistemas empresariales — incluyendo soluciones de inteligencia artificial conectadas a CRMs y canales de mensajería para negocios reales.
 
 [![Email](https://img.shields.io/badge/Email-Quinteroalejandro66%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:Quinteroalejandro66@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Quintero-333333?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-quintero-/)
@@ -17,7 +17,8 @@ Construyo soluciones digitales a medida — desde aplicaciones web hasta automat
 
 - **Desarrollo web y de software a medida** — aplicaciones y plataformas empresariales
 - **Automatización de procesos** — reducción de trabajo manual e integración entre sistemas
-- **Inteligencia artificial** — chatbots y flujos automatizados con IA
+- **IA aplicada y automatización conversacional** — chatbots multicanal conectados a CRM (WhatsApp, Instagram, Messenger)
+- **Integraciones** — APIs REST, webhooks y conexión entre plataformas (CRM, e-commerce, logística)
 - **Odoo** — implementación y personalización de ERP
 - **Diseño de interfaces** — UX/UI funcional orientado a producto
 
@@ -49,6 +50,14 @@ Construyo soluciones digitales a medida — desde aplicaciones web hasta automat
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb&logoColor=47A248)
 
+**Automatización & integraciones**
+
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-333333?style=flat-square&logo=fastapi&logoColor=white)
+![Webhooks](https://img.shields.io/badge/-Webhooks-333333?style=flat-square&logo=zapier&logoColor=FF4A00)
+![WhatsApp](https://img.shields.io/badge/-WhatsApp%20API-333333?style=flat-square&logo=whatsapp&logoColor=25D366)
+![Shopify](https://img.shields.io/badge/-Shopify-333333?style=flat-square&logo=shopify&logoColor=7AB55C)
+![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat-square&logo=wordpress&logoColor=21759B)
+
 **Negocio & diseño**
 
 ![Odoo](https://img.shields.io/badge/-Odoo-333333?style=flat-square&logo=odoo&logoColor=714B67)
@@ -64,17 +73,7 @@ Construyo soluciones digitales a medida — desde aplicaciones web hasta automat
 | **El Gato Galletero** | Plataforma web de producto/e-commerce | [Ver sitio](https://www.elgatogalletero.com/) |
 | **Factory IL** | Sistema de gestión / plataforma empresarial | [Ver sitio](https://gps.factoryil.com/Login) |
 | **SUE** | Plataforma web de servicio/producto | [Ver sitio](https://suue.shop/) |
-
-<br>
-
-## Estadísticas
-
-<div align="center">
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alechini04&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alechini04&layout=compact&theme=default&hide_border=true)
-
-</div>
+| **Sistema de automatización conversacional** | Arquitectura multi-marca que integra CRM, WhatsApp, Instagram y Messenger con IA (Claude API), memoria de conversación y escalamiento a agentes humanos, conectada a e-commerce y logística | Proyecto privado |
 
 <br>
 
