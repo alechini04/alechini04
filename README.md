@@ -32,8 +32,3 @@ Ofrezco desarrollo de software, automatización de procesos e integraciones con 
 - El Gato galletero: https://www.elgatogalletero.com/
 - Factory IL: https://gps.factoryil.com/Login
 - SUE: https://suue.shop/
-
-## 📊 Estadísticas
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=default)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact)
